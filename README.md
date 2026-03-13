@@ -1,4 +1,4 @@
-\# Quantum Computing Mini Projects
+# Quantum Computing Mini Projects
 
 
 
@@ -61,4 +61,5 @@ Simulates depolarizing noise and compares ideal vs noisy quantum circuits.
 \- Quantum Cryptography
 
 \- Quantum Noise and Error Analysis
+
 
